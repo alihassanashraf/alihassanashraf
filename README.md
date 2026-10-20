@@ -8,7 +8,7 @@
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=Ali%20Hassan&fontSize=52&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=BS%20Artificial%20Intelligence%20%7C%20Python%20Developer%20%7C%20Video%20Tool%20Builder&descAlignY=58&descSize=16" width="100%"/>
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&pause=1000&color=8B5CF6&center=true&vCenter=true&width=650&lines=BS+AI+Student+%40+Superior+University%2C+Lahore;Python+%2B+OOP+%2B+Applied+AI;Creator+of+CutFlow+Studio+%26+AutoCut+Studio;Prompt+Engineering+%7C+AI+Video+Generation)](https://github.com/alihassanashraf)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&pause=1000&color=8B5CF6&center=true&vCenter=true&width=650&lines=BS+AI+Student+%40+Superior+University%2C+Lahore;Python+%2B+Vibe+coder+%2B+Applied+AI;Creator+of+CutFlow+Studio+%26+AutoCut+Studio;Prompt+Engineering+%7C+AI+Video+Generation)](https://github.com/alihassanashraf)
 
 <img src="https://komarev.com/ghpvc/?username=alihassanashraf&label=Profile%20views&color=8B5CF6&style=flat" alt="Profile views" />
 
