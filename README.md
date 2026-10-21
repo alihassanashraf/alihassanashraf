@@ -8,9 +8,10 @@
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=Ali%20Hassan&fontSize=52&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=BS%20Artificial%20Intelligence%20%7C%20Python%20Developer%20%7C%20Video%20Tool%20Builder&descAlignY=58&descSize=16" width="100%"/>
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&pause=1000&color=8B5CF6&center=true&vCenter=true&width=650&lines=BS+AI+Student+%40+Superior+University%2C+Lahore;Python+%2B+Vibe+coder+%2B+Applied+AI;Creator+of+CutFlow+Studio+%26+AutoCut+Studio;Prompt+Engineering+%7C+AI+Video+Generation)](https://github.com/alihassanashraf)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&pause=1000&color=8B5CF6&center=true&vCenter=true&width=650&lines=BS+AI+Student+%40+Superior+University%2C+Lahore;Python+%2B+OOP+%2B+Applied+AI;Creator+of+CutFlow+Studio+%26+AutoCut+Studio;Prompt+Engineering+%7C+AI+Video+Generation)](https://github.com/alihassanashraf)
 
 <img src="https://komarev.com/ghpvc/?username=alihassanashraf&label=Profile%20views&color=8B5CF6&style=flat" alt="Profile views" />
+<img src="https://img.shields.io/github/followers/alihassanashraf?label=Followers&style=flat&color=3B82F6" alt="Followers" />
 
 </div>
 
@@ -28,6 +29,16 @@ Alongside my studies, I build practical software tools — including browser-bas
 
 <br clear="right"/>
 
+### Right Now
+
+<div align="center">
+
+<img src="assets/now.svg" alt="Right Now — animated" width="100%"/>
+
+</div>
+
+---
+
 ### What I Do
 
 <div align="center">
@@ -38,7 +49,23 @@ Alongside my studies, I build practical software tools — including browser-bas
 
 ---
 
+### Skills
+
+<div align="center">
+
+<img src="assets/skills.svg" alt="My Skills — animated progress bars" width="100%"/>
+
+</div>
+
+---
+
 ### Tech Stack & Tools
+
+<div align="center">
+
+<img src="https://skillicons.dev/icons?i=python,js,html,css,git,github,vscode&theme=dark" alt="Skill icons" />
+
+</div>
 
 <div align="center">
 
@@ -125,6 +152,16 @@ Alongside my studies, I build practical software tools — including browser-bas
 
 ---
 
+### 3D Contribution Graph
+
+<div align="center">
+
+![3D Contribution Graph](./profile-3d-contrib/profile-night-rainbow.svg)
+
+</div>
+
+---
+
 ### Contribution Snake
 
 <picture>
@@ -132,6 +169,16 @@ Alongside my studies, I build practical software tools — including browser-bas
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/alihassanashraf/alihassanashraf/output/github-contribution-grid-snake.svg" />
   <img alt="Contribution snake animation" src="https://raw.githubusercontent.com/alihassanashraf/alihassanashraf/output/github-contribution-grid-snake.svg" />
 </picture>
+
+---
+
+### Quote of the Day
+
+<div align="center">
+
+[![Readme Quotes](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)](https://github.com/piyushsuthar/github-readme-quote)
+
+</div>
 
 ---
 
