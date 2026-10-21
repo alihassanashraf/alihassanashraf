@@ -1,0 +1,61 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="920" height="392" viewBox="0 0 920 392" font-family="Segoe UI, Helvetica, Arial, sans-serif">
+  <defs>
+    <linearGradient id="g1" x1="0" y1="0" x2="1" y2="0"><stop offset="0%" stop-color="#3776AB"/><stop offset="100%" stop-color="#4fc3f7"/></linearGradient>
+    <linearGradient id="g2" x1="0" y1="0" x2="1" y2="0"><stop offset="0%" stop-color="#6d28d9"/><stop offset="100%" stop-color="#c084fc"/></linearGradient>
+    <linearGradient id="g3" x1="0" y1="0" x2="1" y2="0"><stop offset="0%" stop-color="#e34f26"/><stop offset="100%" stop-color="#ffb74d"/></linearGradient>
+    <linearGradient id="g4" x1="0" y1="0" x2="1" y2="0"><stop offset="0%" stop-color="#059669"/><stop offset="100%" stop-color="#34d399"/></linearGradient>
+    <linearGradient id="g5" x1="0" y1="0" x2="1" y2="0"><stop offset="0%" stop-color="#b45309"/><stop offset="100%" stop-color="#fbbf24"/></linearGradient>
+    <linearGradient id="g6" x1="0" y1="0" x2="1" y2="0"><stop offset="0%" stop-color="#2B579A"/><stop offset="100%" stop-color="#60a5fa"/></linearGradient>
+  </defs>
+
+  <rect x="2" y="2" width="916" height="388" rx="14" fill="#0d1117" stroke="#30363d" stroke-width="2"/>
+
+  <g opacity="0">
+    <animate attributeName="opacity" values="0;1" dur="0.6s" begin="0s" fill="freeze"/>
+    <text x="460" y="48" text-anchor="middle" font-size="26" font-weight="700" fill="#ffffff">My Skills</text>
+    <rect x="420" y="60" width="80" height="3" rx="1.5" fill="#8b5cf6"/>
+  </g>
+
+  <!-- Row template: label x=40, bar x=300 w=520 h=16, pct x=838 -->
+
+  <g opacity="0"><animate attributeName="opacity" values="0;1" dur="0.4s" begin="0.3s" fill="freeze"/>
+    <text x="40" y="103" font-size="15" fill="#c9d1d9">🐍 Python</text>
+    <rect x="300" y="90" width="520" height="16" rx="8" fill="#21262d"/>
+    <rect x="300" y="90" width="0" height="16" rx="8" fill="url(#g1)"><animate attributeName="width" values="0;442" dur="1.2s" begin="0.3s" fill="freeze"/></rect>
+    <text x="838" y="103" font-size="14" font-weight="700" fill="#4fc3f7">85%</text></g>
+
+  <g opacity="0"><animate attributeName="opacity" values="0;1" dur="0.4s" begin="0.5s" fill="freeze"/>
+    <text x="40" y="149" font-size="15" fill="#c9d1d9">🤖 Prompt Engineering</text>
+    <rect x="300" y="136" width="520" height="16" rx="8" fill="#21262d"/>
+    <rect x="300" y="136" width="0" height="16" rx="8" fill="url(#g2)"><animate attributeName="width" values="0;478" dur="1.2s" begin="0.5s" fill="freeze"/></rect>
+    <text x="838" y="149" font-size="14" font-weight="700" fill="#c084fc">92%</text></g>
+
+  <g opacity="0"><animate attributeName="opacity" values="0;1" dur="0.4s" begin="0.7s" fill="freeze"/>
+    <text x="40" y="195" font-size="15" fill="#c9d1d9">🎬 Video Editing</text>
+    <rect x="300" y="182" width="520" height="16" rx="8" fill="#21262d"/>
+    <rect x="300" y="182" width="0" height="16" rx="8" fill="url(#g3)"><animate attributeName="width" values="0;494" dur="1.2s" begin="0.7s" fill="freeze"/></rect>
+    <text x="838" y="195" font-size="14" font-weight="700" fill="#ffb74d">95%</text></g>
+
+  <g opacity="0"><animate attributeName="opacity" values="0;1" dur="0.4s" begin="0.9s" fill="freeze"/>
+    <text x="40" y="241" font-size="15" fill="#c9d1d9">✨ AI Video Generation</text>
+    <rect x="300" y="228" width="520" height="16" rx="8" fill="#21262d"/>
+    <rect x="300" y="228" width="0" height="16" rx="8" fill="url(#g4)"><animate attributeName="width" values="0;468" dur="1.2s" begin="0.9s" fill="freeze"/></rect>
+    <text x="838" y="241" font-size="14" font-weight="700" fill="#34d399">90%</text></g>
+
+  <g opacity="0"><animate attributeName="opacity" values="0;1" dur="0.4s" begin="1.1s" fill="freeze"/>
+    <text x="40" y="287" font-size="15" fill="#c9d1d9">🧩 OOP (Object-Oriented)</text>
+    <rect x="300" y="274" width="520" height="16" rx="8" fill="#21262d"/>
+    <rect x="300" y="274" width="0" height="16" rx="8" fill="url(#g5)"><animate attributeName="width" values="0;416" dur="1.2s" begin="1.1s" fill="freeze"/></rect>
+    <text x="838" y="287" font-size="14" font-weight="700" fill="#fbbf24">80%</text></g>
+
+  <g opacity="0"><animate attributeName="opacity" values="0;1" dur="0.4s" begin="1.3s" fill="freeze"/>
+    <text x="40" y="333" font-size="15" fill="#c9d1d9">💼 MS Office</text>
+    <rect x="300" y="320" width="520" height="16" rx="8" fill="#21262d"/>
+    <rect x="300" y="320" width="0" height="16" rx="8" fill="url(#g6)"><animate attributeName="width" values="0;458" dur="1.2s" begin="1.3s" fill="freeze"/></rect>
+    <text x="838" y="333" font-size="14" font-weight="700" fill="#60a5fa">88%</text></g>
+
+  <text x="460" y="372" text-anchor="middle" font-size="12" fill="#8b949e" opacity="0">
+    <animate attributeName="opacity" values="0;1" dur="0.6s" begin="2.2s" fill="freeze"/>
+    Always learning · Always building
+  </text>
+</svg>
